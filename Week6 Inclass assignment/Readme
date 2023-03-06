@@ -1,0 +1,3 @@
+g++ vector_functions.cpp vector_main.cpp
+
+g++ vector_functions.cpp unit_test.cpp
