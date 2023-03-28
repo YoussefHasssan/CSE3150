@@ -1,1 +1,2 @@
-
+g++ adjacency_graph.cpp unit_test.cpp
+./a.out
