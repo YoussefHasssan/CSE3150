@@ -1,1 +1,3 @@
+g++ balanced.cpp unit_test_balanced.cpp
 
+g++ balanced.cpp main.cpp 
