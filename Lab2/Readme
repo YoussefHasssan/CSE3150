@@ -1,1 +1,2 @@
-
+g++ scrambler.cpp main_sim.cpp
+g++ scrambler.cpp unit_tests_yates.cpp
