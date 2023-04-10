@@ -1,1 +1,7 @@
+make all
 
+./unit_test
+
+./main
+
+make clean
